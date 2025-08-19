@@ -16,7 +16,7 @@ namespace Sistema_Aluno
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm_cadaluno());
+            Application.Run(new frm_login());
         }
     }
 }
